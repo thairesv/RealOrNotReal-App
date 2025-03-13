@@ -1,0 +1,145 @@
+/* Forms */
+.input {
+    display: block;
+    background-color: var(--white);
+    border: none;
+    border-radius: 2em; 
+    font-family: "neulis-cursive", sans-serif;
+    font-weight: bold;
+    font-size: 1.3rem;
+    letter-spacing: -0.01rem;
+    padding: 1rem 2rem;
+    margin: 1rem 0.5rem 1rem 0.5rem;
+  }
+  
+  .label {
+    display: block;
+    text-align: center;
+  }
+  
+  .user-col, .pw-col {
+    flex: 1;
+    padding: 1rem;
+    box-sizing: border-box;
+    width: 50%;
+    justify-content: center;
+  }
+  
+  .form-row {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .errorMessage {
+    color: var(--white);
+    margin: 2rem 0 0 0;
+    font-weight: bold;
+  }
+
+
+  /* Responsive design */
+@media (max-width:640px)  {
+    /* phones */
+    body {
+      padding: 3rem 1rem 3rem 1rem;
+      font-size: 17px;
+    }
+  
+    .row {
+      flex-direction: column;
+    }
+  
+    .answer-row {
+      width: 100%;
+    }
+  
+    .column {
+      width: 100%;
+    }
+  
+    .quiz-screen {
+      padding: 5%;
+    }
+  
+    #question {
+      margin: 0 15% -1rem 15%;
+    }
+  
+    .question {
+      padding: 0%;
+      font-size: 2.5rem;
+    }
+  
+    .update {
+      font-size: 8rem;
+    }
+  
+    button {
+      font-size: 1.1rem;
+    }
+  
+    .equal-button {
+      display: block;
+      width: 100%;
+    }
+  
+    .play-button {
+      margin: 1rem 0 0 0;
+    }
+  
+    .logo {
+      max-width: 75%;
+    }
+  
+    .game-image {
+      width: 100%;
+    }
+  
+    .form-row {
+      flex-direction: column;
+    }
+  
+    .user-col, .pw-col {
+      width: 100%;
+    }
+  
+    .input {
+      width: 80%;
+    }
+    
+  }
+  
+  
+  @media (min-width:641px) and (max-width:960px)  {
+    /* tablets */
+    .form-row {
+      flex-direction: column;
+    }
+  
+    .user-col, .pw-col {
+      width: 100%;
+    }
+  
+    .input {
+      width: 80%;
+    }
+  
+  }
+
+
+  /* Responsive design */
+@media (max-width:640px)  {
+    /* phones */  
+    .form-row {
+      flex-direction: column;
+    }
+  
+    .user-col, .pw-col {
+      width: 100%;
+    }
+  
+    .input {
+      width: 80%;
+    }
+    
+  }

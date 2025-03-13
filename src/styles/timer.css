@@ -1,0 +1,25 @@
+/* Timer */
+.timer {
+    font-family: "neulis-neue", sans-serif;
+    font-weight: bold;
+    font-size: 3rem;
+    margin: 4rem 0 0 0;
+  }
+  
+  .emoji {
+    display: inline-block;
+    animation: pulse 1s linear infinite; /* Animating emoji on timer - Adjust the duration and timing function as needed */
+  }
+  
+  .emoji.inactive {
+    animation: none;
+  }
+  
+  @keyframes pulse {
+    0%, 100% {
+      transform: scale(1);
+    }
+    50% {
+      transform: scale(1.1); /* Adjust the scaling factor as needed */
+    }
+  }

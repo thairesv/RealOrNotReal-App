@@ -1,0 +1,475 @@
+/* Font Faces
+ *
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * neulis-cursive:
+ *   - http://typekit.com/eulas/00000000000000007750b26a
+ *   - http://typekit.com/eulas/00000000000000007750b26c
+ *   - http://typekit.com/eulas/00000000000000007750b26f
+ *   - http://typekit.com/eulas/00000000000000007750b271
+ * neulis-cursive-hairline:
+ *   - http://typekit.com/eulas/00000000000000007750b26b
+ *   - http://typekit.com/eulas/00000000000000007750b270
+ * neulis-sans:
+ *   - http://typekit.com/eulas/00000000000000007750b292
+ *   - http://typekit.com/eulas/00000000000000007750b293
+ *   - http://typekit.com/eulas/00000000000000007750b298
+ *   - http://typekit.com/eulas/00000000000000007750b29a
+ *
+ * © 2009-2023 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2023-11-29 00:22:20 UTC"}*/
+
+@import url("https://p.typekit.net/p.css?s=1&k=hyq1qyt&ht=tk&f=53776.53777.53783.53785.53787.53788.53799.53801.53805.53811&a=15875027&app=typekit&e=css");
+
+@font-face {
+font-family:"neulis-cursive";
+src:url("https://use.typekit.net/af/052fdd/00000000000000007750b26a/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"),url("https://use.typekit.net/af/052fdd/00000000000000007750b26a/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"),url("https://use.typekit.net/af/052fdd/00000000000000007750b26a/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"neulis-cursive";
+src:url("https://use.typekit.net/af/6ffe18/00000000000000007750b26c/30/l?subset_id=2&fvd=i4&v=3") format("woff2"),url("https://use.typekit.net/af/6ffe18/00000000000000007750b26c/30/d?subset_id=2&fvd=i4&v=3") format("woff"),url("https://use.typekit.net/af/6ffe18/00000000000000007750b26c/30/a?subset_id=2&fvd=i4&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"neulis-cursive";
+src:url("https://use.typekit.net/af/c07427/00000000000000007750b26f/30/l?subset_id=2&fvd=n7&v=3") format("woff2"),url("https://use.typekit.net/af/c07427/00000000000000007750b26f/30/d?subset_id=2&fvd=n7&v=3") format("woff"),url("https://use.typekit.net/af/c07427/00000000000000007750b26f/30/a?subset_id=2&fvd=n7&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"neulis-cursive";
+src:url("https://use.typekit.net/af/b83381/00000000000000007750b271/30/l?subset_id=2&fvd=i7&v=3") format("woff2"),url("https://use.typekit.net/af/b83381/00000000000000007750b271/30/d?subset_id=2&fvd=i7&v=3") format("woff"),url("https://use.typekit.net/af/b83381/00000000000000007750b271/30/a?subset_id=2&fvd=i7&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"neulis-sans";
+src:url("https://use.typekit.net/af/a2bc6e/00000000000000007750b292/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("woff2"),url("https://use.typekit.net/af/a2bc6e/00000000000000007750b292/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("woff"),url("https://use.typekit.net/af/a2bc6e/00000000000000007750b292/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"neulis-sans";
+src:url("https://use.typekit.net/af/c9d71f/00000000000000007750b293/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff2"),url("https://use.typekit.net/af/c9d71f/00000000000000007750b293/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff"),url("https://use.typekit.net/af/c9d71f/00000000000000007750b293/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"neulis-sans";
+src:url("https://use.typekit.net/af/194129/00000000000000007750b298/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff2"),url("https://use.typekit.net/af/194129/00000000000000007750b298/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff"),url("https://use.typekit.net/af/194129/00000000000000007750b298/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"neulis-sans";
+src:url("https://use.typekit.net/af/dde81e/00000000000000007750b29a/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"),url("https://use.typekit.net/af/dde81e/00000000000000007750b29a/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"),url("https://use.typekit.net/af/dde81e/00000000000000007750b29a/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+  font-family:"neulis-neue";
+  src:url("https://use.typekit.net/af/522184/00000000000000007750b28a/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("woff2"),url("https://use.typekit.net/af/522184/00000000000000007750b28a/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("woff"),url("https://use.typekit.net/af/522184/00000000000000007750b28a/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("opentype");
+  font-display:auto;font-style:italic;font-weight:700;font-stretch:normal;
+  }
+  
+  @font-face {
+  font-family:"neulis-neue";
+  src:url("https://use.typekit.net/af/b889f4/00000000000000007750b282/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff2"),url("https://use.typekit.net/af/b889f4/00000000000000007750b282/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff"),url("https://use.typekit.net/af/b889f4/00000000000000007750b282/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("opentype");
+  font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+  }
+  
+.tk-neulis-cursive { font-family: "neulis-cursive",sans-serif; }
+.tk-neulis-sans { font-family: "neulis-sans",sans-serif; }
+.tk-neulis-neue { font-family: "neulis-neue",sans-serif; }
+
+
+/* Logo */
+.logo {
+  max-width: 50%;
+}
+
+/* Cursor */
+.pointer {
+  cursor: pointer;
+}
+
+/* Colors */
+:root {
+  --red: #ff5414;
+  --blue: #537ec0;
+  --green: #deff56;
+  --lilac: #dfc1dc;
+  --light-lilac: #ebdae1;
+  --white: #fff1e6;
+  --black: #141414;
+}
+
+/* Typography */
+h1 {
+  font-family: "neulis-cursive", sans-serif;
+  font-size: 4rem;
+  line-height: 1.2em;
+}
+
+.tagline {
+  font-family: "neulis-neue", sans-serif;
+  font-weight: bold;
+  font-size: 2rem;
+  margin-bottom: 2rem;
+}
+
+.update {
+  font-family: "neulis-cursive", sans-serif;
+  font-weight: bold;
+  font-size: 10rem;
+}
+
+.dark-body {
+  color: var(--black);  /* Dark text on lighter background color */
+}
+
+/* Buttons */
+button {
+  /* font */
+  font-family: "neulis-cursive", sans-serif;
+  font-weight: bold;
+  font-size: 1.3rem;
+  letter-spacing: -0.01rem;
+  text-transform: uppercase;
+  /* background and layout */
+  background-color: var(--green);
+  border: none;
+  border-radius: 2em;
+  display: inline-block;
+  padding: 1rem 2rem;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  /* hover effect using webkit for rendering across browsers */
+  -webkit-transform: perspective(1px) translateZ(0);
+  transform: perspective(1px) translateZ(0);
+  -webkit-transition-duration: 0.2s;
+  transition-duration: 0.2s;
+  -webkit-transition-property: transform;
+  transition-property: transform;
+  -webkit-transition-timing-function: ease-in-out;
+  transition-timing-function: ease-in-out;
+
+  &:hover {
+    -webkit-transform: translateY(-5px);
+    transform: translateY(-5px);
+  }
+}
+
+/* Disable cursor and hover effects on disabled buttons */
+button:disabled {
+  cursor: not-allowed;
+  opacity: 0.8;
+
+  &:hover {
+    -webkit-transform: translateY(0px);
+    transform: translateY(0px);
+  }
+}
+
+.back-button {
+  background-color: var(--lilac);
+  display: inline;
+}
+
+.submit-button {
+  display: inline;
+}
+
+.accent-button {
+  background-color: var(--blue);
+  color: var(--white);
+}
+
+.equal-button {
+  width: 100%;
+}
+
+.yes-button,
+.no-button {
+  margin: 10px; /* Set your desired gap between buttons */
+}
+
+.left-button {
+  order: 1;
+}
+
+.right-button {
+  order: 2;
+}
+
+.log-out-button {
+  font-size: 0.9rem;
+}
+
+.fa-solid {
+  margin-right: 0.5rem; /* Adjust spacing between icon and text on buttons */
+}
+
+.deep-fake-button {
+  background-color: transparent;
+  box-shadow: none;
+  color: var(--white);
+  font-family: neulis-sans;
+  font-weight: 300;
+  text-transform: none;
+  margin-top: 1rem;
+
+}
+
+/* Questions */
+#question {
+  font-family: "neulis-neue", sans-serif;
+  font-weight: bold;
+  font-size: 1.3rem;
+  margin: -1.5rem;
+}
+
+.question {
+  font-family: "neulis-neue", sans-serif;
+  font-weight: bold;
+  font-size: 3rem;
+  padding: 0 10% 0 10%;
+}
+
+/* Answer boxes */
+.answer {
+  background-color: var(--white);
+  display: block;
+  width: 100%;
+  text-transform: none;
+  font-family: "neulis-sans",sans-serif;
+  font-weight: normal;
+  text-align: left;
+  margin: 0 0 1rem 0;
+
+  &:hover {
+    -webkit-transform: translateY(-2px);
+    transform: translateY(-2px);
+    background-color: var(--light-lilac);
+  }
+
+  &:active, &:focus {
+    background-color: var(--blue);
+    color: var(--white);
+}
+}
+
+.answer:disabled {
+  cursor: not-allowed;
+  opacity: 0.8;
+
+  &:hover {
+    -webkit-transform: translateY(0px);
+    transform: translateY(0px);
+    background-color: var(--white);
+  }
+
+  &:active, &:focus {
+    background-color: var(--white);
+    color: var(--black);
+  }
+}
+
+ul.answers {
+  list-style-type: none;
+  padding: 0;
+}
+
+#answers-list{
+  margin: 2rem 0 2rem 0;
+}
+
+.correct-answer {
+  font-weight: bold;
+}
+
+@keyframes bounce {
+    70% { transform:translateY(0%); }
+    80% { transform:translateY(-15%); }
+    90% { transform:translateY(0%); }
+    95% { transform:translateY(-7%); }
+    97% { transform:translateY(0%); }
+    99% { transform:translateY(-3%); }
+    100% { transform:translateY(0); }
+}
+
+@keyframes flash {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0.5; /* Adjust the opacity level during the flash */
+  }
+}
+
+/* Images */
+.game-image {
+  width: 50%;
+  border-radius: 2em;
+  margin: auto;
+}
+
+/* Layout and Structure */
+:root {
+  background-color: var(--red);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+body {
+  overflow: hidden;
+  padding: 10%;
+  font-family: "neulis-sans";
+  font-size: 1.3rem;
+  line-height: 1.5em;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: var(--white);
+  text-align: center;
+}
+
+.row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  column-gap: 1rem;
+}
+
+.button-row {
+  display: flex;
+  justify-content: space-between;
+}
+
+.answer-row {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  margin: auto;
+  padding: 1rem 0 1rem 0;
+}
+
+.logout-row {
+  margin: 0 0 2rem 0;
+}
+
+.column {
+  flex: 1;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+}
+
+.green-column {
+  background-color: var(--green);
+  color: var(--black);
+  padding: 20px;
+  flex: 1;
+  align-items: center;
+  vertical-align: middle;
+}
+
+.red-column {
+  background-color: var(--red);
+  flex: 1;
+}
+
+.game-wrapper .row {
+  column-gap: 0px; /* Remove gap between green and red columns */
+}
+
+/* Responsive design */
+@media (max-width:640px)  {
+  /* phones */
+  body {
+    padding: 3rem 1rem 3rem 1rem;
+    font-size: 17px;
+  }
+
+  .row {
+    flex-direction: column;
+  }
+
+  .answer-row {
+    width: 100%;
+  }
+
+  .column {
+    width: 100%;
+  }
+
+  .quiz-screen {
+    padding: 5%;
+  }
+
+  #question {
+    margin: 0 15% -1rem 15%;
+  }
+
+  .question {
+    padding: 0%;
+    font-size: 2.5rem;
+  }
+
+  .update {
+    font-size: 8rem;
+  }
+
+  button {
+    font-size: 1.1rem;
+  }
+
+  .equal-button {
+    display: block;
+    width: 100%;
+  }
+
+  .play-button {
+    margin: 1rem 0 0 0;
+  }
+
+  .logo {
+    max-width: 75%;
+  }
+
+  .game-image {
+    width: 100%;
+  }
+}
+
+
+@media (min-width:641px) and (max-width:960px)  {
+  /* tablets */
+  body {
+    margin: 15% 5% 15% 5%;
+  }
+
+  .answer-row {
+    width: 75%;
+  }
+
+  .game-image {
+    width: 75%;
+  }
+
+}
+
+
+@media (min-width: 768px) {
+  /* desktop */
+  .column {
+    width: 50%;
+  }
+}
